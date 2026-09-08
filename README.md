@@ -1,4 +1,4 @@
-# AWSGENAIBLA
+# AWS GENERATIVE AI CSC-6161-AWS-BLA-Krishnan
 Learning Journey AWS Certified Generative AI Developer – Professional
 Learning AWS Generative AI — My Notes and Progress
 
